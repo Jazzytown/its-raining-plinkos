@@ -1,4 +1,3 @@
-# C31-Plinko-Game
-Watch the mini balls fall into the container! 👀 🏉⚾⚽ 📦
+hello this is me gameee
 
-https://setucoder.github.io/C31-Plinko-Game/
+(why is it called plinkos)
